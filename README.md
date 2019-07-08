@@ -38,6 +38,10 @@ web server and access the application in your browser at <http://localhost:8000>
 $ cd my_project/
 $ php bin/console server:start
 ```
+Api doc
+-----
+
+http://localhost:8000/api/doc
 
 Tests
 -----
